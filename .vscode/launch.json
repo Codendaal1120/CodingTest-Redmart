@@ -1,0 +1,28 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Application",
+			"request": "launch",
+			"mainClass": "console.Application",
+			"projectName": "com.redmart.skiing-in-singapore"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)",
+			"request": "launch",
+			"mainClass": ""
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Application",
+			"request": "launch",
+			"mainClass": "Application",
+			"projectName": "com.redmart.skiing-in-singapore"
+		}
+	]
+}
